@@ -1,2 +1,1 @@
-print("hello aman")
-print("hello everyone")
+print("good morning")
